@@ -13,3 +13,17 @@ C:\Users\Dell\source\repos\Practicas CodeWars\Practicas CodeWars\obj\Debug\net6.
 C:\Users\Dell\source\repos\Practicas CodeWars\Practicas CodeWars\obj\Debug\net6.0\Practicas CodeWars.pdb
 C:\Users\Dell\source\repos\Practicas CodeWars\Practicas CodeWars\obj\Debug\net6.0\Practicas CodeWars.genruntimeconfig.cache
 C:\Users\Dell\source\repos\Practicas CodeWars\Practicas CodeWars\obj\Debug\net6.0\ref\Practicas CodeWars.dll
+C:\Users\Christian\Desktop\Estudios y Cursos\C# y .Net\Practicas CodeWars\Practicas CodeWars\bin\Debug\net6.0\Practicas CodeWars.exe
+C:\Users\Christian\Desktop\Estudios y Cursos\C# y .Net\Practicas CodeWars\Practicas CodeWars\bin\Debug\net6.0\Practicas CodeWars.deps.json
+C:\Users\Christian\Desktop\Estudios y Cursos\C# y .Net\Practicas CodeWars\Practicas CodeWars\bin\Debug\net6.0\Practicas CodeWars.runtimeconfig.json
+C:\Users\Christian\Desktop\Estudios y Cursos\C# y .Net\Practicas CodeWars\Practicas CodeWars\bin\Debug\net6.0\Practicas CodeWars.dll
+C:\Users\Christian\Desktop\Estudios y Cursos\C# y .Net\Practicas CodeWars\Practicas CodeWars\bin\Debug\net6.0\Practicas CodeWars.pdb
+C:\Users\Christian\Desktop\Estudios y Cursos\C# y .Net\Practicas CodeWars\Practicas CodeWars\obj\Debug\net6.0\Practicas CodeWars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Christian\Desktop\Estudios y Cursos\C# y .Net\Practicas CodeWars\Practicas CodeWars\obj\Debug\net6.0\Practicas CodeWars.AssemblyInfoInputs.cache
+C:\Users\Christian\Desktop\Estudios y Cursos\C# y .Net\Practicas CodeWars\Practicas CodeWars\obj\Debug\net6.0\Practicas CodeWars.AssemblyInfo.cs
+C:\Users\Christian\Desktop\Estudios y Cursos\C# y .Net\Practicas CodeWars\Practicas CodeWars\obj\Debug\net6.0\Practicas CodeWars.csproj.CoreCompileInputs.cache
+C:\Users\Christian\Desktop\Estudios y Cursos\C# y .Net\Practicas CodeWars\Practicas CodeWars\obj\Debug\net6.0\Practicas CodeWars.dll
+C:\Users\Christian\Desktop\Estudios y Cursos\C# y .Net\Practicas CodeWars\Practicas CodeWars\obj\Debug\net6.0\refint\Practicas CodeWars.dll
+C:\Users\Christian\Desktop\Estudios y Cursos\C# y .Net\Practicas CodeWars\Practicas CodeWars\obj\Debug\net6.0\Practicas CodeWars.pdb
+C:\Users\Christian\Desktop\Estudios y Cursos\C# y .Net\Practicas CodeWars\Practicas CodeWars\obj\Debug\net6.0\Practicas CodeWars.genruntimeconfig.cache
+C:\Users\Christian\Desktop\Estudios y Cursos\C# y .Net\Practicas CodeWars\Practicas CodeWars\obj\Debug\net6.0\ref\Practicas CodeWars.dll
